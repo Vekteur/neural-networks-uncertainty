@@ -7,3 +7,6 @@ matplotlib
 seaborn
 sklearn
 ngboost
+properscoring
+regex
+IPython
